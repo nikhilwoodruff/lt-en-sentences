@@ -1,4 +1,4 @@
-# Lt/En Transformer
+# lt-en-sentences
 
 This repository houses a dataset of Latin-English sentence pairs for in training a language translation model.
 
